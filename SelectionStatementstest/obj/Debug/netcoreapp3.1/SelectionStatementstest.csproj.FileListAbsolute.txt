@@ -1,0 +1,14 @@
+C:\Users\Jack Herer\Desktop\repos\selection statements\SelectionStatementstest\SelectionStatementstest\obj\Debug\netcoreapp3.1\SelectionStatementstest.csproj.AssemblyReference.cache
+C:\Users\Jack Herer\Desktop\repos\selection statements\SelectionStatementstest\SelectionStatementstest\obj\Debug\netcoreapp3.1\SelectionStatementstest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack Herer\Desktop\repos\selection statements\SelectionStatementstest\SelectionStatementstest\obj\Debug\netcoreapp3.1\SelectionStatementstest.AssemblyInfoInputs.cache
+C:\Users\Jack Herer\Desktop\repos\selection statements\SelectionStatementstest\SelectionStatementstest\obj\Debug\netcoreapp3.1\SelectionStatementstest.AssemblyInfo.cs
+C:\Users\Jack Herer\Desktop\repos\selection statements\SelectionStatementstest\SelectionStatementstest\obj\Debug\netcoreapp3.1\SelectionStatementstest.csproj.CoreCompileInputs.cache
+C:\Users\Jack Herer\Desktop\repos\selection statements\SelectionStatementstest\SelectionStatementstest\bin\Debug\netcoreapp3.1\SelectionStatementstest.exe
+C:\Users\Jack Herer\Desktop\repos\selection statements\SelectionStatementstest\SelectionStatementstest\bin\Debug\netcoreapp3.1\SelectionStatementstest.deps.json
+C:\Users\Jack Herer\Desktop\repos\selection statements\SelectionStatementstest\SelectionStatementstest\bin\Debug\netcoreapp3.1\SelectionStatementstest.runtimeconfig.json
+C:\Users\Jack Herer\Desktop\repos\selection statements\SelectionStatementstest\SelectionStatementstest\bin\Debug\netcoreapp3.1\SelectionStatementstest.runtimeconfig.dev.json
+C:\Users\Jack Herer\Desktop\repos\selection statements\SelectionStatementstest\SelectionStatementstest\bin\Debug\netcoreapp3.1\SelectionStatementstest.dll
+C:\Users\Jack Herer\Desktop\repos\selection statements\SelectionStatementstest\SelectionStatementstest\bin\Debug\netcoreapp3.1\SelectionStatementstest.pdb
+C:\Users\Jack Herer\Desktop\repos\selection statements\SelectionStatementstest\SelectionStatementstest\obj\Debug\netcoreapp3.1\SelectionStatementstest.dll
+C:\Users\Jack Herer\Desktop\repos\selection statements\SelectionStatementstest\SelectionStatementstest\obj\Debug\netcoreapp3.1\SelectionStatementstest.pdb
+C:\Users\Jack Herer\Desktop\repos\selection statements\SelectionStatementstest\SelectionStatementstest\obj\Debug\netcoreapp3.1\SelectionStatementstest.genruntimeconfig.cache
